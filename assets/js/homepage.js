@@ -44,6 +44,7 @@ var displayRepos = function(repos, searchTerm) {
     // check if api returned any repos
     if (repos.length === 0) {
         repoContainerEl.textContent = "No repositories found.";
+        repoSearchTerm.textContent = searchTerm;
         return;
     }
 
@@ -92,4 +93,4 @@ var displayRepos = function(repos, searchTerm) {
 
 userFormEl.addEventListener("submit", formSubmitHandler);
 
-// thru 6.1.6; moving breexily thru the next 6.1's, probably onto 6.2
+// Done with 6.2; onto 6.3 (starting with 6.3.1!)
