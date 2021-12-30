@@ -94,4 +94,4 @@ var displayRepos = function(repos, searchTerm) {
 
 userFormEl.addEventListener("submit", formSubmitHandler);
 
-// Done with 6.2; onto 6.3 (starting with 6.3.1!)
+// Done with 6.4.3; onto 6.4.4
