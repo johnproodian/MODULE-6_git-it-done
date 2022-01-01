@@ -6,5 +6,5 @@
 * Differences in implementation between HTTP GET requests using XMLHTTPRequest, jQuery AJAX, and the fetch API
 * HTTP response codes and handling response metadata with fetch API
 * Parsing JSON to dynamically generate HTML
-* Understanding benefits and challenges of working with asynchronous JavaScript
-* Understanding and implementing query string parameters
+* Benefits and challenges of working with asynchronous JavaScript
+* Query string parameters
