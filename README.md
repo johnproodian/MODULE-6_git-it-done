@@ -1,6 +1,6 @@
 # Git It Done
 
-A web app that uses GitHub's API to search for open source projects with open issues an dpull requests.
+A web app that uses GitHub's API to search for open source projects with open issues and pull requests.
 
 My contribution (most of the HTML and CSS code was given) was to add the JavaScript for retrieving and displaying the repositories and open issue counts when users search for them.
 
