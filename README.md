@@ -4,13 +4,13 @@ A web app that uses GitHub's API to search for open source projects with open is
 
 My contribution (most of the HTML and CSS code was given) was to add the JavaScript for retrieving and displaying the repositories and open issue counts when users search for them.
 
-## Website
-https://johnproodian.github.io/git-it-done/
-
 ## Built With
 * HTML
 * CSS
 * JavaScript
+
+## Website
+https://johnproodian.github.io/git-it-done/
 
 ## What I Learned
 * Difference between a client-side API and a server-side API
