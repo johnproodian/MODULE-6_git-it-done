@@ -4,6 +4,9 @@ A web app that uses GitHub's API to search for open source projects with open is
 
 My contribution (most of the HTML and CSS code was given) was to add the JavaScript for retrieving and displaying the repositories and open issue counts when users search for them.
 
+## Screenshots
+![search results for 'microsoft'](/search-results.png)
+
 ## Built With
 * HTML
 * CSS
