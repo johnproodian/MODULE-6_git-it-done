@@ -112,7 +112,7 @@ var buttonClickHandler = function(event) {
     console.log(language);
 
     if (language) {
-        getFeaturedRepose(language);
+        getFeaturedRepos(language);
 
         //clear old content
         repoContainerEl.textContent = "";
